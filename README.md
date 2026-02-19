@@ -1,5 +1,5 @@
 # 🏥 Waiting Time Prediction in Healthcare Operations
-### CIS432 — Optional Project 2
+### CIS432 — Project 2
 
 Predicting patient examination waiting times at a cancer hospital using simulated RFID tracking data. The project develops and compares four complementary ML approaches: point prediction, interval prediction, quantile prediction, and dynamic (real-time updating) prediction.
 
