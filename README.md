@@ -77,22 +77,6 @@ Side-by-side evaluation of all approaches with deployment recommendation.
 
 ---
 
-## ⚙️ Installation
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
-```
-
-Then open the notebook:
-
-```bash
-jupyter notebook CIS432_Project2_WaitingTimePrediction.ipynb
-```
-
-> Place `data.xlsx` in the same directory as the notebook before running.
-
----
-
 ## 🔑 Key Features Engineered
 
 | Feature | Description |
